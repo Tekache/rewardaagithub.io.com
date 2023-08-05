@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Cera Pro;
+}
+body {
+    /* background: #dfe7e9; */
+    font-family: 'Roboto', sans-serif;
+    
+    
+    
+    /* background-size: cover; */
+    background-position: center;
+	}
